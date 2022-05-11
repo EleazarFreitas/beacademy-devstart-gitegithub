@@ -1,6 +1,6 @@
 # beacademy-devstart-gitegithub
 
-## Comandos git abordados nas aulas de git e github no programa DevStart na plataforma BeAcademy
+### Comandos git abordados nas aulas de git e github no programa DevStart na plataforma BeAcademy
 
 `git config --global user.name 'Fulano'` configura o nome do usuário
 
